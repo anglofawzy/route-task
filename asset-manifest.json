@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/route-task.git/static/css/main.3427fbb2.css",
-    "main.js": "/route-task.git/static/js/main.52a53d23.js",
-    "static/js/453.35ef772b.chunk.js": "/route-task.git/static/js/453.35ef772b.chunk.js",
-    "static/media/logo.svg": "/route-task.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/route-task.git/index.html",
-    "main.3427fbb2.css.map": "/route-task.git/static/css/main.3427fbb2.css.map",
-    "main.52a53d23.js.map": "/route-task.git/static/js/main.52a53d23.js.map",
-    "453.35ef772b.chunk.js.map": "/route-task.git/static/js/453.35ef772b.chunk.js.map"
+    "main.css": "/route-task/static/css/main.3427fbb2.css",
+    "main.js": "/route-task/static/js/main.8705748f.js",
+    "static/js/453.35ef772b.chunk.js": "/route-task/static/js/453.35ef772b.chunk.js",
+    "static/media/logo.svg": "/route-task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/route-task/index.html",
+    "main.3427fbb2.css.map": "/route-task/static/css/main.3427fbb2.css.map",
+    "main.8705748f.js.map": "/route-task/static/js/main.8705748f.js.map",
+    "453.35ef772b.chunk.js.map": "/route-task/static/js/453.35ef772b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3427fbb2.css",
-    "static/js/main.52a53d23.js"
+    "static/js/main.8705748f.js"
   ]
 }
